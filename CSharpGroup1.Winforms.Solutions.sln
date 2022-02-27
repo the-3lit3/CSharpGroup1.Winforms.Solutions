@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.32126.317
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleWinformCalculator", "SampleWinformCalculator\SampleWinformCalculator.csproj", "{2CEB4DC6-8468-44A8-B40F-F37D391DBE85}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "newBasicCalculator", "newBasicCalculator\newBasicCalculator.csproj", "{FB12C895-80EF-4894-8587-90EE5437F16F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{2CEB4DC6-8468-44A8-B40F-F37D391DBE85}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2CEB4DC6-8468-44A8-B40F-F37D391DBE85}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2CEB4DC6-8468-44A8-B40F-F37D391DBE85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB12C895-80EF-4894-8587-90EE5437F16F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB12C895-80EF-4894-8587-90EE5437F16F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB12C895-80EF-4894-8587-90EE5437F16F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB12C895-80EF-4894-8587-90EE5437F16F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
